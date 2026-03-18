@@ -1,0 +1,10 @@
+# Ignore build output
+target/
+
+# Ignore runtime logs
+Logging.txt
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
