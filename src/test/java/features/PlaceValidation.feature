@@ -12,7 +12,7 @@ Feature: Validating place APIs
     Examples:
      |Name| Launguage | Address |
      |Ahouse 		|English| Russia|
-     #|Ahouse2 		|spanish| china|
+     |Ahouse2 		|spanish| china|
    
    @Deleteplace  
   Scenario: Verify if delete place functionality is working
